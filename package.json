@@ -1,0 +1,22 @@
+{
+  "name": "create-react-styled-component-cli",
+  "version": "0.0.1",
+  "description": "Create React component width an associated styled-component file",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Styled",
+    "Component"
+  ],
+  "author": "Knut A. Sorknes (knut.sorknes@gmail.com)",
+  "license": "MIT",
+  "bin": {
+    "create-react-styled-component": "./cli.js"
+  },
+  "dependencies": {
+    "commander": "^4.0.1"
+  }
+}
