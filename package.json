@@ -18,5 +18,12 @@
   },
   "dependencies": {
     "commander": "^4.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorknes/create-react-styled-component-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/sorknes/create-react-styled-component-cli/issues"
   }
 }
