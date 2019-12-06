@@ -4,6 +4,8 @@ This `create-react-styled-component` CLI will create a JSX functional component
 and a styled-component file. We also included some custom imports for
 design tokens and config files in the styled-component to help you on your way.
 
+You need to have installed `styled-components` in your own project to use this package.
+
 ```code
 How to use:
 create-react-styled-component <name> [option]
